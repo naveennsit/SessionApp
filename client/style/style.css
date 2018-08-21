@@ -1,0 +1,20 @@
+.hide {
+    display: none;
+}
+
+.navigation_header {
+    display: flex;
+    list-style: none;
+}
+
+.navigation_header li {
+    flex: 1;
+    border: 1px solid lightgray;
+    padding: 20px;
+    text-align: center;
+
+}
+.navigation_header li a {
+    font-weight: bold;
+    font-size: 18px;
+}
